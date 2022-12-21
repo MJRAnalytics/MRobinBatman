@@ -2,7 +2,7 @@
 
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRobinBatman&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MRobinBatman&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MRobinBatman&theme=merko&hide=tcl)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 👀 I’m interested in data science.
