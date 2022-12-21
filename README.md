@@ -1,9 +1,12 @@
 <h1>👋 Hi, I’m @MRobinBatman </h1>
-
-
+<!--
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRobinBatman&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MRobinBatman&theme=merko&hide=tcl)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
+
+<img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=MRobinBatman&theme=merko" />
+<img  width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRobinBatman&theme=merko&hide=tcl" />
 
 - 👀 I’m interested in data science.
 - 🌱 I’m currently learning data visualization.
