@@ -3,8 +3,8 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRobinBatman&theme=merko)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MRobinBatman&theme=merko&hide=tcl,html)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![GitHub Stats Light](https://github-readme-stats.vercel.app/api?username=MRobinBatman&theme=merko)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Top Languages Light](https://github-readme-stats.vercel.app/api/top-langs/?username=MRobinBatman&theme=merko&hide=tcl,html)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![GitHub Stats Light](https://github-readme-stats.vercel.app/api?username=MRobinBatman&theme=transparent)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Languages Light](https://github-readme-stats.vercel.app/api/top-langs/?username=MRobinBatman&theme=transparent&hide=tcl,html)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
 <!--
@@ -23,6 +23,7 @@
 # Software Stack
 
 Python
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
