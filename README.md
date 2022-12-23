@@ -6,7 +6,7 @@
 
 
 <img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=MRobinBatman&theme=merko" />
-<img  width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRobinBatman&theme=merko&hide=tcl" />
+<img  width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRobinBatman&theme=merko&hide=tcl,html" />
 
 - 👀 I’m interested in data science.
 - 🌱 I’m currently learning data visualization.
