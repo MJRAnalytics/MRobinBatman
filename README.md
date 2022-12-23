@@ -1,14 +1,16 @@
 <h1>👋 Hi, I’m @MRobinBatman </h1>
+
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRobinBatman&theme=merko)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MRobinBatman&theme=merko&hide=tcl,html)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub Stats Light](https://github-readme-stats.vercel.app/api?username=MRobinBatman&theme=merko)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Languages Light](https://github-readme-stats.vercel.app/api/top-langs/?username=MRobinBatman&theme=merko&hide=tcl,html)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+
 <!--
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRobinBatman&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MRobinBatman&theme=merko&hide=tcl)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-
 <img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=MRobinBatman&theme=merko#gh-dark-mode-only" />
 <img  width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRobinBatman&theme=merko#gh-dark-mode-only&hide=tcl,html" />
-<img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=MRobinBatman&theme=transparent#gh-light-mode-only" />
-<img  width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRobinBatman&theme=transparent#gh-light-mode-only&hide=tcl,html" />
+-->
 
 
 - 👀 I’m interested in data science.
