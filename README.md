@@ -5,8 +5,11 @@
 -->
 
 
-<img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=MRobinBatman&theme=merko" />
-<img  width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRobinBatman&theme=merko&hide=tcl,html" />
+<img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=MRobinBatman&theme=merko#gh-dark-mode-only" />
+<img  width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRobinBatman&theme=merko#gh-dark-mode-only&hide=tcl,html" />
+<img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=MRobinBatman&theme=transparent#gh-light-mode-only" />
+<img  width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRobinBatman&theme=transparent#gh-light-mode-only&hide=tcl,html" />
+
 
 - 👀 I’m interested in data science.
 - 🌱 I’m currently learning data visualization.
