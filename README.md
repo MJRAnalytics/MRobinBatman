@@ -13,7 +13,7 @@
 -->
 
 
-- 👀 I’m interested in data science.
+- 👀 I’m interested in data science and data analytics.
 - 🌱 I’m currently learning data visualization.
 - 💞️ I’m looking to collaborate on research projects, dashboards, alerting systems.
 - 📫 How to reach me: on LinkedIn.
