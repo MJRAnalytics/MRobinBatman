@@ -1,15 +1,15 @@
-<h1>👋 Hi, I’m @MRobinBatman </h1>
+<h1>👋 Hi, I’m @MJRANALYTICS </h1>
 
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRobinBatman&theme=merko)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MRobinBatman&theme=merko&hide=tcl,html)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![GitHub Stats Light](https://github-readme-stats.vercel.app/api?username=MRobinBatman&theme=transparent)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Top Languages Light](https://github-readme-stats.vercel.app/api/top-langs/?username=MRobinBatman&theme=transparent&hide=tcl,html)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MJRAnalytics&theme=merko)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MJRAnalytics&theme=merko&hide=tcl,html)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub Stats Light](https://github-readme-stats.vercel.app/api?username=MJRAnalytics&theme=transparent)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Languages Light](https://github-readme-stats.vercel.app/api/top-langs/?username=MJRAnalytics&theme=transparent&hide=tcl,html)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
 <!--
-<img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=MRobinBatman&theme=merko#gh-dark-mode-only" />
-<img  width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRobinBatman&theme=merko#gh-dark-mode-only&hide=tcl,html" />
+<img align="left" width=400 src="https://github-readme-stats.vercel.app/api?username=MJRAnalytics&theme=merko#gh-dark-mode-only" />
+<img  width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJRAnalytics&theme=merko#gh-dark-mode-only&hide=tcl,html" />
 -->
 
 
@@ -70,6 +70,6 @@ Microsoft Office
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 <!---
-MRobinBatman/MRobinBatman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MJRAnalytics/MJRAnalytics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
